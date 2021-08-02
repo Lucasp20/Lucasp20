@@ -1,6 +1,4 @@
 <h2>Lucas Pereira</h2>
-#
-
 
 
 <!--
