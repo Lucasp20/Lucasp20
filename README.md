@@ -1,7 +1,12 @@
-<h2>Lucas Pereira</h2>
+# **Lucas Pereira**
 
 
-<!--
+<!-- 
+- [x] HTML | CSS
+ [Linkdin](https://www.linkedin.com/in/lucas-pereira-4aab17192/)  -->
+
+
+<!-- 
 **Lucasp20/Lucasp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
