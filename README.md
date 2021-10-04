@@ -1,7 +1,12 @@
 # **Lucas Pereira**
+ 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-4aab17192/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lucasp20/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:lucaspereira_lp@hotmail.com)
+ 
+ ##
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lucasp20-visitors&color=55acb7&style=for-the-badge&logo=Github)
-
+<a href="#"><img src="https://badges.pufler.dev/visits/Lucasp20/Lucasp20"></a>
 <!-- 
 - [x] HTML | CSS
 
@@ -12,8 +17,7 @@
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> </code>
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/githql/graphql.png"> </code>
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </code>
-
- [Linkdin](https://www.linkedin.com/in/lucas-pereira-4aab17192/)  -->
+  -->
 
 
 <!-- 
