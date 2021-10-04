@@ -1,6 +1,6 @@
 # **Lucas Pereira**
 
-
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lucasp20-visitors&color=55acb7&style=for-the-badge&logo=Github)
 
 <!-- 
 - [x] HTML | CSS
