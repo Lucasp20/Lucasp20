@@ -5,6 +5,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:lucaspereira_lp@hotmail.com)
  
  ##
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasp20&layout=compact&langs_count=7&theme=github_dark"/>
 
 <a href="#"><img src="https://badges.pufler.dev/visits/Lucasp20/Lucasp20"></a>
 <!-- 
