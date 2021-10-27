@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lucasp20/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:lucaspereira_lp@hotmail.com)
  
- ##
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasp20&layout=compact&langs_count=7&theme=github_dark"/>
 
+ ##
 <a href="#"><img src="https://badges.pufler.dev/visits/Lucasp20/Lucasp20"></a>
 <!-- 
 - [x] HTML | CSS
